@@ -13,7 +13,7 @@ This project focuses on detecting and matching similar images using the Harris c
 - Implements feature extraction and matching algorithms in Python.
 - Employs libraries like OpenCV for image processing tasks.
 
-## Result Image
+## Result images
 see the report
 ## Usage
 Instructions for setting up and using the application, including requirements and execution steps, are provided in the project's documentation.
