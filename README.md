@@ -14,7 +14,7 @@ This project focuses on detecting and matching similar images using the Harris c
 - Employs libraries like OpenCV for image processing tasks.
 
 ## Result images
-see the report
+![example Result](https://github.com/brosio-lsn/feature_extraction_and_matching_similar_images_harris/blob/main/code_and_results/match_ratio.png)
 ## Usage
 Instructions for setting up and using the application, including requirements and execution steps, are provided in the project's documentation.
 
